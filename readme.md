@@ -12,7 +12,7 @@ Thus, it is neither logical nor optimal to use the video as input.
 
 ### III) Example of Pre-Processing:
 Input : <br> 
-![](1.gif)
+![Input gif](1.gif)
 <br>
 output : 
 ![](test.4.jpg)
