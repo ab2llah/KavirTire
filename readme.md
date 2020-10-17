@@ -14,5 +14,5 @@ Thus, it is neither logical nor optimal to use the video as input.
 Input : <br> 
 ![Input gif](1.gif)
 <br>
-output : 
+output : <br>
 ![](test.4.jpg)
